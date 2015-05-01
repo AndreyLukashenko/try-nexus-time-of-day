@@ -1,0 +1,44 @@
+{
+  "name": "nexus",
+  "version": "0.4.0-alpha.0",
+  "main": "build/nexus.js",
+  "homepage": "https://github.com/DaQuirm/nexus",
+  "authors": [
+    "DaQuirm <leo.daquirm@gmail.com>"
+  ],
+  "description": "A client-side Web application framework",
+  "keywords": [
+    "mvvm",
+    "framework",
+    "web",
+    "client",
+    "spa"
+  ],
+  "license": "LGPL",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "lib",
+    "src",
+    "test",
+    "demos",
+    "test.html"
+  ],
+  "dependencies": {
+    "mocha": "~2.1.0",
+    "chai": "~1.10.0",
+    "sinon": "http://sinonjs.org/releases/sinon-1.12.2.js",
+    "sinon-chai": "~2.6.0"
+  },
+  "_release": "0.4.0-alpha.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.4.0-alpha.0",
+    "commit": "70e0093201b98623bf9d0cec97ee9c468608d696"
+  },
+  "_source": "git://github.com/DaQuirm/nexus.git",
+  "_target": "0.4.0-alpha.0",
+  "_originalSource": "nexus",
+  "_direct": true
+}
